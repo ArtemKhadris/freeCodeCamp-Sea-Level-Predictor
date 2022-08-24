@@ -6,7 +6,7 @@ Solution of freeCodeCamp problem.
 
 My solution: 
 
-
+[![Run on Repl.it](https://replit.com/badge/github/ArtemKhadris/freeCodeCamp-Sea-Level-Predictor)](https://replit.com/new/github/ArtemKhadris/freeCodeCamp-Sea-Level-Predictor)
 
 
 
