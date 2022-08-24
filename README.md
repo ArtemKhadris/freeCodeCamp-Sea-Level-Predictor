@@ -8,6 +8,9 @@ My solution:
 
 [![Run on Repl.it](https://replit.com/badge/github/ArtemKhadris/freeCodeCamp-Sea-Level-Predictor)](https://replit.com/new/github/ArtemKhadris/freeCodeCamp-Sea-Level-Predictor)
 
+Plot results:
+
+![sea_level_plot](https://user-images.githubusercontent.com/106828028/186507703-7c9760b2-89f6-48c7-989d-736a9b90f49f.png)
 
 
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
